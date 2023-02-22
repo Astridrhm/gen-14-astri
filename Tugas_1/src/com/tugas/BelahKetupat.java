@@ -50,5 +50,6 @@ public class BelahKetupat {
 		double Keliling = 4 * sisi;
 		return Keliling;
 	}
+	//satu
 
 }
