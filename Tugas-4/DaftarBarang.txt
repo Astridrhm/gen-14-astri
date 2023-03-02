@@ -1,0 +1,4 @@
+Nama Barang : Oreo		Harga : 5000	Persediaan : 9
+Nama Barang : Silverqueen	Harga : 15000	Persediaan : 11
+Nama Barang : Ultra		Harga : 7000	Persediaan : 9
+Nama Barang : Pocky		Harga : 9000	Persediaan : 14
