@@ -21,7 +21,7 @@ public class SoalA {
 				System.out.print("*");
 			}
 			System.out.println();
-		} //
+		}
 	}
 }
 
