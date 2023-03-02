@@ -14,6 +14,7 @@ public class SoalD {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Nilai n : ");
 		int n = input.nextInt();
+<<<<<<< HEAD
 		input.close();
 
 		for (int i = 1; i <= n; i++) {
@@ -22,6 +23,15 @@ public class SoalD {
 					System.out.print((i * 2) - 1);
 				} else if (i + j == n + 1) {
 					System.out.print((j * 2) - 1);
+=======
+
+		for (int i = 1; i <= n; i++) {
+			for (int j = 1; j <= n; j++) {
+				if (i == j) {
+					System.out.print((i * 2) -1);
+				} else if (i + j == n + 1){
+					System.out.print((j * 2) -1);
+>>>>>>> branch 'master' of git@github.com:Astridrhm/gen-14-astri.git
 				} else {
 					System.out.print(" ");
 				}
